@@ -15,7 +15,7 @@ De ochtend hebben we doorgebracht bij het Abenteuer Golfpark in Lenzkirch. Naar 
 
 Met gevaar voor lijf en leden moeten we ons naar de overkant van de rivier trekken.
 
-<p style="text-align: center;"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/JOfVtYR5uUA" width="560"></iframe></p>
+{{< youtube id="JOfVtYR5uUA" >}}
 
 Naast de golfbaan is een klein parkje met een speeltuin waar we de meegebrachte broodjes eten. Daarna werd het tijd om de Rasenhorn rodelbahn in Todtnau met een tweede bezoek te vereren. Helaas bleek bij de kassa dat de Hochschwarzwald Karten alleen in de ochtend geldig zijn. Heel vreemd, toen we hier een paar dagen geleden waren, was het geen enkel probleem toen we aan het einde van de middag waren. De regels zijn toevallig deze week veranderd. Kleine teleurstelling natuurlijk, maar wij waren kwaad en weigerden de normale entreeprijs te betalen. Dus zijn we maar een stukje doorgereden naar de Todtnauer Wasserfälle, die bij aankomst opvallend mooi zijn.
 
